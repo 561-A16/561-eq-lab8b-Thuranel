@@ -1,0 +1,13 @@
+---
+last_check:
+  etag: '"826da16d6bb40b21ce10ba7118b0c047"'
+  version: 1.8.2
+  at: 1477939404
+checked_completion: true
+completion_version: 1.8.2
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: Vb_tkktLm-lFzO9iUsYINA
+repos:
+  561-A16/561-eq-lab8b-Thuranel:
+    endpoint: https://api.travis-ci.org/
