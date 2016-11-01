@@ -14,3 +14,11 @@
   - Télévereser  de l'image **webapp:release** sur Docker Hub
     - Créer des variables d'environnement sur travis pour votre id et mot de passe de docker hub
   - Le déploiement sur *digital ocean*
+
+  
+  - docker tag webapp:release thuranel/webapp:latest
+  - docker login -u=thuranel -p=monmotdepasse
+  - docker push thuranel/webapp:latest
+  
+  #username: u1432676@159.203.33.172
+  #port 6536
